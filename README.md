@@ -21,7 +21,7 @@ A simple Curriculum vitae template 🍻
 
 Checkout the live demo [here](https://chenlei-fu.github.io/CV-Theme-01/).
 
-<img src="HTML-CSS/image/readme.png" alt="drawing" width="500"/>
+<img src="HTML-CSS/Image/readme.png" alt="drawing" width="500"/>
 
 ### 2. TinDog-Landing-page
 A landing page for finding dogs nearby
